@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="app_nameDetail">Github User Detail</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Masukkan Username</string>
+    <string name="profile_pic">Profile Pictures</string>
+    <string name="tab_1">%d Followers</string>
+    <string name="tab_2">%d Following</string>
+    <string name="splash_image">Splash Image</string>
+    <string name="btn_share">Share</string>
+</resources>
